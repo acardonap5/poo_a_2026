@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// nombre de la clase
 class Persona{
 //Atributos
 protected : 
